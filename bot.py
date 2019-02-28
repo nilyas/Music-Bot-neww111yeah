@@ -6,7 +6,7 @@ import random
 import requests
 import os
 
-client = commands.Bot(command_prefix="_")
+client = commands.Bot(command_prefix="1")
 player_dict = dict()
 
 
